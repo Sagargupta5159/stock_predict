@@ -17,7 +17,7 @@ An interactive web application for analyzing and forecasting stock prices using 
 
 ## 🚀 Live Demo
 
-🔗 [Launch the App](https://stockpredict.streamlit.app) *(replace with your link if needed)*
+🔗 [Launch the App]([https://stockpredict.streamlit.app](https://stock-prediction-app-24-cs-ds-4b-14.streamlit.app/)) *(replace with your link if needed)*
 
 ## 🧰 Tech Stack
 
