@@ -1,26 +1,7 @@
-# Core libraries
 streamlit==1.39.0
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.1
 yfinance==0.2.65
-pandas==2.2.3
-numpy==2.0.2
-matplotlib==3.9.2
-plotly==5.24.1
-scikit-learn==1.5.2
-scipy==1.14.1
-
-# For deep learning
-tensorflow-cpu==2.18.0
-keras==3.7.0
-
-# Optional but useful
-altair==5.4.1
-requests==2.32.3
-python-dotenv==1.1.1
-watchdog==5.0.3
-
-# Only if you're using them in code
-protobuf==5.28.2
-joblib==1.4.2
-
-# Compatibility
-typing_extensions==4.12.2
+scikit-learn==1.2.2
+plotly==5.15.0
