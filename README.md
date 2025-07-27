@@ -31,6 +31,10 @@ An interactive web application for analyzing and forecasting stock prices using 
 
 > *(<img width="1919" height="854" alt="Screenshot 2025-07-28 010234" src="https://github.com/user-attachments/assets/2b1cc41b-902e-411f-8af2-8bd4d2c54787" />
 )*
+> <img width="1919" height="889" alt="Screenshot 2025-07-28 010249" src="https://github.com/user-attachments/assets/aadada1b-7b96-4774-910d-e6f39009f9d4" />
+<img width="1919" height="904" alt="Screenshot 2025-07-28 010310" src="https://github.com/user-attachments/assets/4e0e112f-5724-4b7c-ba91-03a27de3aea6" />
+
+
 
 ## 🛠️ Installation
 
