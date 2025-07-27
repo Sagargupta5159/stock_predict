@@ -17,7 +17,7 @@ An interactive web application for analyzing and forecasting stock prices using 
 
 ## 🚀 Live Demo
 
-🔗 [Launch the App](https://stock-prediction-app-24-cs-ds-4b-14.streamlit.app/)*(replace with your link if needed)*
+🔗 [Launch the App](https://stock-prediction-app-24-cs-ds-4b-14.streamlit.app/)*(Visit)*
 
 ## 🧰 Tech Stack
 
@@ -38,3 +38,49 @@ An interactive web application for analyzing and forecasting stock prices using 
 ```bash
 git clone https://github.com/yourusername/stock-prediction-app.git
 cd stock-prediction-app
+
+
+### 2. Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+3. Run the app locally
+streamlit run app.py
+
+
+📦 Requirements
+See requirements.txt
+streamlit
+yfinance
+pandas
+plotly
+scikit-learn
+tensorflow
+numpy
+
+
+📁 Project Structure
+📦 stock-prediction-app
+├── app.py                  # Main Streamlit app
+├── model.py                # LSTM model definition (if separated)
+├── utils.py                # Utility functions (e.g., preprocessing)
+├── requirements.txt
+└── README.md
+
+🤝 Contributing
+Contributions are welcome!
+Fork this repo
+Create a feature branch
+Submit a pull request
+
+📜 License
+This project is licensed under the MIT License.
+See LICENSE for details.
+
+⭐ Show your support
+If you find this project helpful, please ⭐ star the repo and share it with others!
+markdown
+Copy
+Edit
