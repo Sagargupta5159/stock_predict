@@ -29,7 +29,8 @@ An interactive web application for analyzing and forecasting stock prices using 
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your app UI and charts here for better visibility)*
+> *(<img width="1919" height="854" alt="Screenshot 2025-07-28 010234" src="https://github.com/user-attachments/assets/2b1cc41b-902e-411f-8af2-8bd4d2c54787" />
+)*
 
 ## 🛠️ Installation
 
